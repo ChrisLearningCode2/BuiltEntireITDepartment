@@ -6,6 +6,12 @@
 **Stack:** CachyOS · Docker · fish shell · bash scripts · No cloud · No money
 
 ---
+<img width="1513" height="951" alt="image" src="https://github.com/user-attachments/assets/2bfc4537-4a19-4426-b603-417762924daf" />
+
+
+
+
+
 
 ## What I Did Today
 
