@@ -205,3 +205,10 @@ But today, on my laptop, in Docker containers, I deployed a web server, a databa
 That's the job. I just did it.
 
 Stack: CachyOS (Arch-based), Docker, fish shell. No cloud. No VMs. No money spent.
+
+
+PROJECTS
+  IT Lab (github.com/YOUR_USERNAME/it-lab)
+  Self-built multi-node infrastructure lab using Docker, Ansible,
+  Zabbix, OTOBO, and Wiki.js. Deployed web, database, and mail
+  servers. Full ticket-to-resolution workflow.   
