@@ -1,6 +1,7 @@
 # Day 2: I Learned to Write Scripts (and My Lab Now Starts With One Command)
 
-> Part 2 of building a 20-person IT department on a laptop. Today: bash scripting, safe automation, and turning my daily routine into two commands.
+> Part 2 of building a 20-person IT department on a laptop. Today: bash scripting, safe automation, 
+\and turning my daily routine into two commands.
 
 **Stack:** CachyOS · Docker · fish shell · bash scripts · No cloud · No money
 
@@ -153,7 +154,8 @@ docker compose down && docker compose up -d
 
 10 seconds. No data loss. No angry users. No 3am page.
 
-That's why Docker is the perfect place to learn scripting. I can be reckless. Try destructive things. Run a bad command. It doesn't matter. Rebuild in 30 seconds.
+That's why Docker is the perfect place to learn scripting. I can be reckless. Try destructive things. 
+Run a bad command. It doesn't matter. Rebuild in 30 seconds.
 
 Failures Today
 #1: nano: command not found
@@ -166,7 +168,8 @@ Wrote stop_lab.sh, tried to run it, got "exists but is not an executable file." 
 
 #3: The "is that a good resume thing?" panic
 
-I spent 10 minutes wondering if a blog post about my home lab was "professional enough." It is. The failures are the point.
+I spent 10 minutes wondering if a blog post about my home lab was "professional enough." It is. 
+The failures are the point.
 
 What I Learned
 A script is not "code." It's a to-do list that runs itself.
@@ -194,7 +197,8 @@ What's Next
 The Honest Part
 I still can't SSH into a production server at work. Company policy.
 
-But I can start my entire IT department with one command. I can check the health of all my servers with one command. I can stop everything and free my RAM with one command.
+But I can start my entire IT department with one command. I can check the health of all my servers with one command. 
+I can stop everything and free my RAM with one command.
 
 That's the job. I'm doing it. Just... at home. In Docker. With no one to answer to.
 
