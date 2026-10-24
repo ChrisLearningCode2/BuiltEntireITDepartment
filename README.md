@@ -4,6 +4,12 @@ A beginner's honest log of setting up Ansible, OTOBO, Zabbix, and Wiki.js with D
 TL;DR
 I went from "what is Ansible" to a fully functional multi-node lab with ticketing, monitoring, automation, a knowledge base, and mail — all running in Docker containers on my CachyOS desktop. It took one evening. I broke things roughly 40 times. Here's the whole thing, failures included.
 
+<img width="1046" height="71" alt="image" src="https://github.com/user-attachments/assets/a1e59006-bfb2-43a0-aaca-b875a130d816" />
+
+<img width="853" height="115" alt="image" src="https://github.com/user-attachments/assets/0f3005bc-7d37-49d9-84a6-dd4e8753b673" />
+
+
+
 The Goal
 I work in a large enterprise. I don't have access to servers. Company policy. So I wanted to build my own practice environment at home — a "20-person business IT stack" — to prepare for a sysadmin/DevOps role.
 
